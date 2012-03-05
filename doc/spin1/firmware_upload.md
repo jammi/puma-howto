@@ -2,7 +2,7 @@
 
 /-- 337x260 img/operation/FreeEMS_loader_settings.png "FreeEMS Loader Application"
 
-1. Install [SeanK’s loader].
+1. Install [Seans loader].
 2. Connect a USB cable between your computer and Puma.
 3. Jumper the load/run header.
 4. Turn Puma **on**.
@@ -23,7 +23,7 @@
 
 ### Verifying correct operation of the firmware ###
 
-/-- 337x260 img/placeholder_image.png "CuteCom streaming FreeEMS data logs"
+/-- 337x260 img/operation/CuteComDataStreaming.png "CuteCom streaming FreeEMS data logs"
  - Connect CuteCom with the correct settings and hex mode on
  - Verify that data is streaming past at a high rate
  	- Send the stop data logging (update.block.with.datalog.stream.type.0x00-OFF.bin) packet from the Freeems-vanilla firmware lib directory and ensure that the stream stops.
@@ -33,7 +33,5 @@
 	- Get interface version; (request.interface.version.bin)
 	- Get decoder version; (request.decoder.name.bin) 
 - Ensure that the strings returned match what you uploaded.
-
-*You are now ready to test your physical outputs using the Bench Test decoder.*
 
 --/

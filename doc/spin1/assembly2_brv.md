@@ -1,8 +1,8 @@
-#### Step 7 : BRV Circuit
+#### Step 6 : BRV Circuit
 
 /-- 337x260 img/reflow/IMG_0209.JPG "" BRV circuit assembly.
 
-Using solder paste place beads on all of the following component pads R105, R106, C31, D35, D36, R49, R52.
+Using solder paste, place beads on all of the following component pads R105, R106, C31, D35, D36, R49, R52.
 
 - R105	*(3.9K&ohm;)* 
 - R106	*(1K&ohm;)*	
@@ -12,4 +12,4 @@ Using solder paste place beads on all of the following component pads R105, R106
 - R49	*(470R)*
 - R52	*(**MOD** 0805 jumper)* use a 0805 package 0&ohm; jumper, this modification is made to maintain optimal input resistance to MCU.
 --/
-/-- 337x260 img/reflow/IMG_0215.JPG "" Assembled BRV circuit. --/
+/-- 337x260 img/reflow/IMG_0215.JPG "" *Assembled BRV circuit.* --/

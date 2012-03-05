@@ -1,6 +1,6 @@
-#### Step 12 : Fuel circuit ####
+#### Step 11 : Fuel circuit
 
-Using solder paste place beads on all of the following component pads Q8, D46, R67, R66, R65.
+Using solder paste, place beads on all of the following component pads Q8, D46, R67, R66, R65.
 
 /-- 337x260 img/reflow/IMG_0271.JPG "" Fuel circuit assembly. 
 
@@ -12,4 +12,4 @@ Using solder paste place beads on all of the following component pads Q8, D46, R
 - **C37** *(Not used no connection)* Snub circuit not needed.
 --/
 
-/-- 337x260 img/reflow/IMG_0277.JPG "" Completed fuel circuit --/
+/-- 337x260 img/reflow/IMG_0277.JPG "" *Completed fuel circuit.* --/

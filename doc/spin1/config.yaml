@@ -14,7 +14,6 @@ structure:
     - using_bom # BOM configuration chapter
     - sourcing_components # chapter guiding how to order components
   - general_info:  
-    - surface_mount_information # tips and tricks for first times
     - assembly_tools 
   - assembly_mod:
     - assembly_essential_mods # Spin1-specific modifications 
@@ -37,8 +36,12 @@ structure:
   - reflow:
     - pcb_bake # instructions how to bake the board in an oven
   - assembly_through_hole:
-    - post_PCB_modifications
     - assembly13_after_reflow
+    - ignition_th
+    - ign_pullup_mod
+    - injection_th
+    - temp_portT_mod
+    - usb_pnp_mod
   - serial_monitor:
     - sm_install # how to load the serial monitor using BDM
   - firmware:
